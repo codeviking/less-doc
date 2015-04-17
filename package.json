@@ -1,0 +1,14 @@
+{
+  "name": "less-doc",
+  "version": "0.0.1",
+  "description": "Documentation generator for LESS stylesheets.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha test tests/**/*.test.js"
+  },
+  "author": "Sam Skjonsberg",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  }
+}
